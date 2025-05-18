@@ -1,4 +1,4 @@
-#Sa, GA, Backracking, Sensorless
+
 # ======================= PHẦN 1: THƯ VIỆN VÀ KHỞI TẠO =======================
 import pygame
 import sys
