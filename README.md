@@ -1,7 +1,7 @@
 # TRÍ TUỆ NHÂN TẠO - ĐỒ ÁN CÁ NHÂN
 # ÁP DỤNG CÁC THUẬT TOÁN TRONG AI VÀO BÀI TOÁN 8 PUZZLE
 **Bài tập cá nhân môn Trí Tuệ Nhân Tạo (AI) Trần Thị Như Quỳnh - 23110299 - 8 Puzzle**
- 
+/*Link GitHub: https://github.com/epiflower06/DoAnCaNhanAI/tree/main*/
 ---
 
 ## 📌 Mục Lục
@@ -270,7 +270,7 @@ Q-Learning là một thuật toán học tăng cường không cần mô hình, 
 ## 📊 Tổng Kết
 
 - Dự án giúp sinh viên **hiểu sâu sắc về các nhóm thuật toán tìm kiếm trong AI**
-- Cung cấp nền tảng cho các ứng dụng mở rộng trong lĩnh vực tự động hóa, robot, và lập kế hoạch.
+- Cung cấp nền tảng vững chắc để áp dụng AI 
 
 ---
 
