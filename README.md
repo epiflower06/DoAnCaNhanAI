@@ -116,7 +116,7 @@ A* sử dụng công thức f(n) = g(n) + h(n), trong đó g(n) là chi phí th�
 - **Nhược điểm:**
 - Tốn nhiều bộ nhớ, lưu trữ toàn bộ các trạng thái đã xét và hàng đợi ưu tiên.
 - Dễ bị quá tải bộ nhớ với không gian trạng thái lớn.
-  ![A*](A_star.gif)
+  ![A*](A_start.gif)
   
 📎 [Xem đoạn code A* Search]
 
