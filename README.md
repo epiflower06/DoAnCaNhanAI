@@ -1,6 +1,8 @@
 # TRÍ TUỆ NHÂN TẠO - ĐỒ ÁN CÁ NHÂN
 # ÁP DỤNG CÁC THUẬT TOÁN TRONG AI VÀO BÀI TOÁN 8 PUZZLE
 **Bài tập cá nhân môn Trí Tuệ Nhân Tạo (AI) Trần Thị Như Quỳnh - 23110299 - 8 Puzzle**
+
+
 /*Link GitHub: https://github.com/epiflower06/DoAnCaNhanAI/tree/main*/
 ---
 
